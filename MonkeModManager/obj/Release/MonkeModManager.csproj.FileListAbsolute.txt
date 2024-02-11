@@ -1,0 +1,12 @@
+C:\Users\HJS\Desktop\MonkeModManager-2.0.3\MonkeModManager\bin\Release\MonkeModManager.exe.config
+C:\Users\HJS\Desktop\MonkeModManager-2.0.3\MonkeModManager\bin\Release\MonkeModManager.exe
+C:\Users\HJS\Desktop\MonkeModManager-2.0.3\MonkeModManager\bin\Release\MonkeModManager.pdb
+C:\Users\HJS\Desktop\MonkeModManager-2.0.3\MonkeModManager\obj\Release\MonkeModManager.csproj.AssemblyReference.cache
+C:\Users\HJS\Desktop\MonkeModManager-2.0.3\MonkeModManager\obj\Release\MonkeModManager.FormMain.resources
+C:\Users\HJS\Desktop\MonkeModManager-2.0.3\MonkeModManager\obj\Release\MonkeModManager.FormSelectPlatform.resources
+C:\Users\HJS\Desktop\MonkeModManager-2.0.3\MonkeModManager\obj\Release\MonkeModManager.Properties.Resources.resources
+C:\Users\HJS\Desktop\MonkeModManager-2.0.3\MonkeModManager\obj\Release\MonkeModManager.csproj.GenerateResource.cache
+C:\Users\HJS\Desktop\MonkeModManager-2.0.3\MonkeModManager\obj\Release\MonkeModManager.csproj.CoreCompileInputs.cache
+C:\Users\HJS\Desktop\MonkeModManager-2.0.3\MonkeModManager\obj\Release\MonkeModManager.exe
+C:\Users\HJS\Desktop\MonkeModManager-2.0.3\MonkeModManager\obj\Release\MonkeModManager.pdb
+C:\Users\HJS\Desktop\MonkeModManager-2.0.3\MonkeModManager\obj\Release\MonkeModManager.AboutUs.resources
